@@ -1,6 +1,4 @@
-<app class="jsx">
-
-</app>import React from "react";
+import React from "react";
 import Gallery from "./Gallery";
 
 function App() {
